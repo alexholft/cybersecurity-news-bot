@@ -1,0 +1,28 @@
+{
+  "name": "cybersecurity-news-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexholft/cybersecurity-news-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alexholft/cybersecurity-news-bot/issues"
+  },
+  "homepage": "https://github.com/alexholft/cybersecurity-news-bot#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "nodemailer": "^7.0.10",
+    "rss-parser": "^3.13.0"
+  }
+}
